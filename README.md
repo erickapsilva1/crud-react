@@ -34,6 +34,10 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
    npm start
    ```
 
+## Exemplo de Funcionamento da Aplicação
+
+![Exemplo de funcionamento da app](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA3c29obHE3bzU3azBidHJnYXZnMmdkdTVyYmpucHU2OGFjYjVvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rkPb7EUCpIDBsTTrlC/giphy.gif)
+
 # Tecnologias Utilizadas
 React
 React Router
