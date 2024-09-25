@@ -41,9 +41,9 @@ export default function Alunos(){
         api.get('api/Alunos', authorization).then(
             response => {setAlunos(response.data);
 
-            }, token)
-    })
-
+            }, [authorization])
+    }) 
+    
     async function logout(){
         try{
             localStorage.clear();
